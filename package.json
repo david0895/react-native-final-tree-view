@@ -26,7 +26,6 @@
     "view"
   ],
   "peerDependencies": {
-    "react-native": "^0.51"
   },
   "dependencies": {
     "lodash.get": "^4.4.2"
